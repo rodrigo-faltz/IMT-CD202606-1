@@ -150,9 +150,7 @@ Após o agrupamento da escolaridade, observou-se que a amostra possui presença 
 
 Figura 1 - Distribuição dos entrevistados por grupo de escolaridade
 
-```text
 ![alt text](./imgs/image.png)
-```
 
 ### 3.2 Vontade de participação política
 
@@ -170,9 +168,7 @@ Também foi analisada a relação entre escolaridade e vontade de participação
 
 Figura 3 - Percentual com muita ou alguma vontade de participar da política por escolaridade
 
-```text
 ![alt text](./imgs/image-2.png)
-```
 
 A partir desse gráfico, observou-se que:
 
@@ -195,17 +191,14 @@ Foram analisadas as variáveis:
 
 Figura 4 - Percentual de entrevistados que lembram em quem votaram em 2022
 
-```text
 ![alt text](./imgs/image-3.png)
-```
 
 Também foi analisada a relação entre memória de voto e vontade de participação política. Essa comparação busca verificar se entrevistados mais dispostos a participar da vida política também apresentam maior lembrança do voto.
 
 Figura 5 - Lembrança de voto federal segundo vontade de participação política
 
-```text
+
 ![alt text](./imgs/image-4.png)
-```
 
 A interpretação esperada é:
 
@@ -227,9 +220,9 @@ Foram analisadas as seguintes prioridades:
 
 Figura 6 - Temas citados entre as três principais prioridades políticas
 
-```text
+
 ![alt text](./imgs/image-5.png)
-```
+
 
 A análise das prioridades permite identificar quais temas possuem maior peso na percepção dos entrevistados. Em geral, temas como saúde, emprego, educação, desigualdade e violência tendem a aparecer como dimensões centrais da agenda pública.
 
@@ -254,9 +247,9 @@ Foram criadas variáveis binárias para identificar entrevistados que citaram:
 
 Figura 8 - Medidas citadas para combater fake news
 
-```text
+
 ![alt text](./imgs/image-6.png)
-```
+
 
 A análise permitiu observar quais tipos de responsabilização aparecem com mais força na opinião dos entrevistados. Esse resultado pode ser interpretado em diálogo com debates atuais sobre regulação de plataformas digitais, responsabilidade de usuários e responsabilização de agentes políticos.
 
