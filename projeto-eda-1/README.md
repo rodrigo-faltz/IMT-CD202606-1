@@ -129,16 +129,13 @@ O teste de Mann-Whitney foi escolhido porque não exige pressuposto de normalida
 O p-valor obtido foi:
 
 ```text
-p-valor = INSERIR_P_VALOR
+p-valor = 0.2644019711247433
 ```
 
 Considerando nível de significância de 5%, a interpretação foi:
 
 ```text
-INSERIR_INTERPRETAÇÃO DO TESTE
-Exemplo: “Como o p-valor foi menor que 0,05, rejeita-se H0, indicando evidência estatística de diferença na distribuição da idade entre os grupos.”
-ou
-“Como o p-valor foi maior que 0,05, não se rejeita H0, indicando ausência de evidência estatística suficiente para afirmar diferença entre os grupos.”
+Não há evidência estatística suficiente para afirmar diferença na distribuição da idade entre os grupos.
 ```
 
 ## 3. Discussão dos resultados
@@ -154,7 +151,7 @@ Após o agrupamento da escolaridade, observou-se que a amostra possui presença 
 Figura 1 - Distribuição dos entrevistados por grupo de escolaridade
 
 ```text
-INSERIR_GRÁFICO_ESCOLARIDADE
+![alt text](image.png)
 ```
 
 ### 3.2 Vontade de participação política
@@ -166,7 +163,7 @@ A análise mostrou predominância da resposta “nenhuma vontade”, indicando b
 Figura 2 - Distribuição da vontade de participação política
 
 ```text
-INSERIR_GRÁFICO_P4
+![alt text](image-1.png)
 ```
 
 Também foi analisada a relação entre escolaridade e vontade de participação política. O objetivo foi verificar se níveis mais altos de escolaridade estão associados a maior disposição para participação.
@@ -174,16 +171,14 @@ Também foi analisada a relação entre escolaridade e vontade de participação
 Figura 3 - Percentual com muita ou alguma vontade de participar da política por escolaridade
 
 ```text
-INSERIR_GRÁFICO_PARTICIPACAO_ESCOLARIDADE
+![alt text](image-2.png)
 ```
 
 A partir desse gráfico, observou-se que:
 
 ```text
-INSERIR_INTERPRETAÇÃO
-Exemplo: “os grupos com maior escolaridade apresentaram maior percentual de entrevistados com alguma ou muita vontade de participar da política”
-ou
-“não houve diferença visual expressiva entre os grupos de escolaridade.”
+os grupos com maior escolaridade apresentaram maior percentual de entrevistados com alguma ou muita vontade de participar da política
+
 ```
 
 ### 3.3 Memória de voto
@@ -201,7 +196,7 @@ Foram analisadas as variáveis:
 Figura 4 - Percentual de entrevistados que lembram em quem votaram em 2022
 
 ```text
-INSERIR_GRÁFICO_MEMORIA_VOTO
+![alt text](image-3.png)
 ```
 
 Também foi analisada a relação entre memória de voto e vontade de participação política. Essa comparação busca verificar se entrevistados mais dispostos a participar da vida política também apresentam maior lembrança do voto.
@@ -209,14 +204,13 @@ Também foi analisada a relação entre memória de voto e vontade de participa�
 Figura 5 - Lembrança de voto federal segundo vontade de participação política
 
 ```text
-INSERIR_GRÁFICO_MEMORIA_PARTICIPACAO
+![alt text](image-4.png)
 ```
 
 A interpretação esperada é:
 
 ```text
-INSERIR_INTERPRETAÇÃO
-Exemplo: “os entrevistados com alguma ou muita vontade de participar da política apresentaram maior percentual de lembrança do voto para deputado federal.”
+os entrevistados com alguma ou muita vontade de participar da política apresentaram maior percentual de lembrança do voto para deputado federal.
 ```
 
 ### 3.4 Prioridades políticas
@@ -234,7 +228,7 @@ Foram analisadas as seguintes prioridades:
 Figura 6 - Temas citados entre as três principais prioridades políticas
 
 ```text
-INSERIR_GRÁFICO_PRIORIDADES
+![alt text](image-5.png)
 ```
 
 A análise das prioridades permite identificar quais temas possuem maior peso na percepção dos entrevistados. Em geral, temas como saúde, emprego, educação, desigualdade e violência tendem a aparecer como dimensões centrais da agenda pública.
@@ -242,19 +236,8 @@ A análise das prioridades permite identificar quais temas possuem maior peso na
 A interpretação dos resultados foi:
 
 ```text
-INSERIR_INTERPRETAÇÃO
-Exemplo: “saúde e geração de empregos apareceram entre os temas mais citados, indicando que demandas sociais e econômicas ocupam posição central na percepção dos entrevistados.”
+“saúde, educação e geração de empregos apareceram entre os temas mais citados, indicando que demandas sociais e econômicas ocupam posição central na percepção dos entrevistados.
 ```
-
-Também podem ser exploradas diferenças regionais:
-
-Figura 7 - Prioridades políticas por região
-
-```text
-INSERIR_GRÁFICO_PRIORIDADES_REGIAO
-```
-
-Essa análise ajuda a verificar se determinadas regiões atribuem maior peso a temas como emprego, saúde ou violência.
 
 ### 3.5 Percepção sobre fake news
 
@@ -272,7 +255,7 @@ Foram criadas variáveis binárias para identificar entrevistados que citaram:
 Figura 8 - Medidas citadas para combater fake news
 
 ```text
-INSERIR_GRÁFICO_FAKE_NEWS
+![alt text](image-6.png)
 ```
 
 A análise permitiu observar quais tipos de responsabilização aparecem com mais força na opinião dos entrevistados. Esse resultado pode ser interpretado em diálogo com debates atuais sobre regulação de plataformas digitais, responsabilidade de usuários e responsabilização de agentes políticos.
@@ -280,19 +263,9 @@ A análise permitiu observar quais tipos de responsabilização aparecem com mai
 A interpretação dos resultados foi:
 
 ```text
-INSERIR_INTERPRETAÇÃO
-Exemplo: “as medidas de punição a empresas e usuários apareceram com maior frequência do que medidas voltadas exclusivamente à regulação de políticos.”
+as medidas de punição a empresas e usuários apareceram com maior frequência do que medidas voltadas exclusivamente à regulação de políticos.
 ```
 
-Também pode ser feita uma análise por escolaridade:
-
-Figura 9 - Apoio à punição de políticos por fake news por escolaridade
-
-```text
-INSERIR_GRÁFICO_FAKE_NEWS_ESCOLARIDADE
-```
-
-Essa análise busca avaliar se grupos com diferentes níveis educacionais apresentam percepções distintas sobre responsabilização por fake news.
 
 ### 3.6 Idade e vontade de participação política
 
@@ -303,32 +276,18 @@ Os entrevistados foram divididos em dois grupos:
 - Entrevistados com muita ou alguma vontade de participar
 - Entrevistados sem nenhuma vontade de participar
 
-Antes do teste, foram calculadas estatísticas descritivas de idade por grupo.
 
-| Grupo | Média | Mediana | Desvio-padrão | N |
-| --- | --- | --- | --- | --- |
-| Tem vontade de participar | INSERIR_MEDIA | INSERIR_MEDIANA | INSERIR_DESVIO | INSERIR_N |
-| Não tem vontade de participar | INSERIR_MEDIA | INSERIR_MEDIANA | INSERIR_DESVIO | INSERIR_N |
-
-Figura 10 - Distribuição da idade por vontade de participação política
-
-```text
-INSERIR_BOXPLOT_IDADE_PARTICIPACAO
-```
 
 O resultado do teste foi:
 
 | Teste | Estatística | p-valor | Decisão |
 | --- | --- | --- | --- |
-| Mann-Whitney U | INSERIR_U | INSERIR_P_VALOR | INSERIR_DECISAO |
+| Mann-Whitney U | 349338.5 | 0.2644019711247433 | Não rejeitamos H0 |
 
 A interpretação foi:
 
 ```text
-INSERIR_INTERPRETAÇÃO
-Exemplo: “o teste indicou diferença estatisticamente significativa na distribuição da idade entre os grupos, sugerindo que a idade pode estar associada à disposição para participar da vida política.”
-ou
-“o teste não indicou diferença estatisticamente significativa, sugerindo que a idade, isoladamente, não diferencia os grupos quanto à vontade de participação política.”
+o teste não indicou diferença estatisticamente significativa, sugerindo que a idade, isoladamente, não diferencia os grupos quanto à vontade de participação política.
 ```
 
 ### 3.7 Preparação para cruzamento com dados do TSE
@@ -363,8 +322,9 @@ A base do TSE será agregada por região a partir dos arquivos estaduais e dever
 Após o merge entre as bases, será possível analisar perguntas como:
 
 - Regiões com maior abstenção eleitoral em 2022 também apresentam menor disposição declarada para participação política?
+![alt text](image-7.png)
 - Regiões com maior abstenção eleitoral apresentam maior percentual de entrevistados que não lembram em quem votaram para deputado federal?
-
+![alt text](image-8.png)
 Como essa integração será realizada no nível das cinco grandes regiões brasileiras, os resultados devem ser interpretados como exploratórios, e não como evidência causal. O objetivo é identificar padrões regionais entre comportamento eleitoral observado e opinião política declarada.
 
 ## 4. Conclusão
