@@ -99,7 +99,7 @@ A primeira análise realizada foi a visualização da série mensal da inadimpl�
 
 **Figura 1 — Evolução da inadimplência da carteira de crédito no Brasil**
 
-![Evolução da inadimplência da carteira de crédito no Brasil](image.png)
+![Evolução da inadimplência da carteira de crédito no Brasil](./imgs/image.png)
 
 A série histórica indica que a inadimplência apresentou períodos de alta, queda e estabilidade ao longo do intervalo analisado. A taxa média de inadimplência no período foi de **3,12%**, com desvio-padrão de **0,46 ponto percentual**, o que indica variações relevantes ao longo da série.
 
@@ -122,7 +122,7 @@ Para reduzir a oscilação mensal e facilitar a comparação entre anos, foi cal
 
 **Figura 2 — Inadimplência média anual da carteira de crédito**
 
-![Inadimplência média anual da carteira de crédito](image-1.png)
+![Inadimplência média anual da carteira de crédito](./imgs/image-1.png)
 
 A análise anual mostrou que os maiores níveis médios anuais de inadimplência ocorreram em **2017** e **2025**, enquanto o menor nível foi observado em **2021**. Esse padrão sugere que a inadimplência não evoluiu de forma linear no período, apresentando ciclos de alta e queda.
 
@@ -149,7 +149,7 @@ Também foram calculadas médias móveis de 3 e 12 meses. A média móvel de 3 m
 
 **Figura 3 — Inadimplência e médias móveis de 3 e 12 meses**
 
-![Inadimplência e médias móveis de 3 e 12 meses](image-2.png)
+![Inadimplência e médias móveis de 3 e 12 meses](./imgs/image-2.png)
 
 Essa visualização é importante porque a inadimplência pode apresentar ruídos mensais. A média móvel permite observar melhor o comportamento estrutural da série, destacando os movimentos persistentes de alta ou queda. A análise das médias móveis sugere que a inadimplência tende a se ajustar de forma gradual, sem responder de maneira instantânea às mudanças macroeconômicas.
 
@@ -159,7 +159,7 @@ Como inadimplência, Selic e dólar possuem escalas diferentes, as séries foram
 
 **Figura 4 — Séries padronizadas: inadimplência, Selic e dólar**
 
-![Séries padronizadas: inadimplência, Selic e dólar](image-3.png)
+![Séries padronizadas: inadimplência, Selic e dólar](./imgs/image-3.png)
 
 A comparação visual das séries padronizadas mostrou que, em determinados períodos, a inadimplência esteve acima de sua média histórica ao mesmo tempo em que a Selic também estava em patamar elevado. Esse comportamento sugere uma possível associação entre o ambiente de juros e o nível de inadimplência. A relação visual com o dólar foi menos evidente.
 
@@ -179,7 +179,7 @@ Foram calculadas as correlações contemporâneas entre inadimplência, Selic e 
 
 **Figura 5 — Matriz de correlação de Pearson**
 
-![Matriz de correlação de Pearson](image-4.png)
+![Matriz de correlação de Pearson](./imgs/image-4.png)
 
 A correlação de Pearson indicou associação positiva moderada entre inadimplência e Selic. O coeficiente de **0,60** sugere que, no período analisado, meses com Selic mais alta tenderam a estar associados a níveis mais altos de inadimplência. Esse resultado é coerente com a interpretação econômica de que juros mais elevados encarecem o crédito e podem aumentar a dificuldade de pagamento de dívidas.
 
@@ -195,7 +195,7 @@ Já a correlação entre inadimplência e dólar foi de **-0,22**, indicando ass
 
 **Figura 6 — Matriz de correlação de Spearman**
 
-![Matriz de correlação de Spearman](image-5.png)
+![Matriz de correlação de Spearman](./imgs/image-5.png)
 
 A correlação de Spearman também apontou associação positiva moderada entre inadimplência e Selic, com coeficiente de **0,54**. Isso reforça que a relação entre as duas variáveis não depende apenas de uma relação linear simples, mas também aparece como padrão monotônico.
 
@@ -224,13 +224,13 @@ Foram gerados gráficos de dispersão para visualizar a relação entre inadimpl
 
 **Figura 7 — Relação entre inadimplência e Selic**
 
-![Relação entre inadimplência e Selic](image-6.png)
+![Relação entre inadimplência e Selic](./imgs/image-6.png)
 
 A análise visual sugere que o gráfico de dispersão entre inadimplência e Selic indica uma associação positiva entre as variáveis. A inclinação ascendente da reta de tendência sugere que períodos com Selic mais elevada estiveram associados a maiores níveis de inadimplência. Esse resultado é coerente com a hipótese econômica de que juros mais altos encarecem o crédito e podem aumentar a dificuldade de pagamento de dívidas por famílias e empresas.
 
 **Figura 8 — Relação entre inadimplência e dólar comercial**
 
-![Relação entre inadimplência e dólar comercial](image-7.png)
+![Relação entre inadimplência e dólar comercial](./imgs/image-7.png)
 
 A análise visual sugere uma associação negativa fraca entre inadimplência e dólar comercial. A reta de tendência apresenta inclinação levemente descendente, mas os pontos estão bastante dispersos. Isso indica que o dólar comercial não apresentou relação forte com a inadimplência no período analisado.
 
@@ -244,7 +244,7 @@ Além da correlação contemporânea, foram analisadas correlações com defasag
 
 **Figura 9 — Correlação entre inadimplência e Selic defasada**
 
-![Correlação entre inadimplência e Selic defasada](image-8.png)
+![Correlação entre inadimplência e Selic defasada](./imgs/image-8.png)
 
 Tabela de correlações com defasagem da Selic:
 
@@ -269,7 +269,7 @@ A análise de defasagens mostra que a correlação entre Selic e inadimplência 
 
 **Figura 10 — Correlação entre inadimplência e dólar defasado**
 
-![Correlação entre inadimplência e dólar defasado](image-9.png)
+![Correlação entre inadimplência e dólar defasado](./imgs/image-9.png)
 
 Tabela de correlações com defasagem do dólar:
 
@@ -298,7 +298,7 @@ Essa abordagem busca responder se aumentos mensais nos juros ou no câmbio coinc
 
 **Figura 11 — Correlação entre variações mensais**
 
-![Correlação entre variações mensais](image-10.png)
+![Correlação entre variações mensais](./imgs/image-10.png)
 
 Tabela de correlações entre variações mensais:
 
