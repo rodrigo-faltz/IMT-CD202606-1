@@ -391,4 +391,4 @@ Apesar dessas limitações, o estudo contribui para compreender como diferentes 
 
 ## 6. Declaração de uso de IA
 
-Ferramentas de inteligência artificial foram utilizadas como apoio na organização do projeto, estruturação do relatório, revisão textual, sugestão de análises exploratórias e apoio na interpretação metodológica. As decisões analíticas, execução dos códigos, validação dos resultados e conclusões finais foram revisadas pelos integrantes do grupo.
+Ferramentas de inteligência artificial foram utilizadas como apoio na organização do projeto, estruturação do relatório, revisão textual, sugestão de análises exploratórias e apoio na interpretação metodológica. As decisões analíticas, execução dos códigos, validação dos resultados e conclusões finais foram revisadas pelos integrantes do grupo. Foi utilizado o Github Copilot for Students.
