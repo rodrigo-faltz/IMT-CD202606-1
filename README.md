@@ -32,6 +32,9 @@ Este projeto utiliza dados da pesquisa **CESOP/IPEC 04832 (2023)** para investig
 🎥 **Vídeo de apresentação:**
 [Inserir link do YouTube]
 
+🎤 **Slides da apresentação:**
+[Slides 1 a 15](https://www.canva.com/design/DAHMqhaGe7A/qhI840L9rXwyeMdbZQ3LDA/edit)
+
 ---
 
 ## Projeto 2 — Evolução da inadimplência da carteira de crédito no Brasil e sua relação com Selic e dólar
@@ -65,6 +68,9 @@ Além da inadimplência, foram analisadas as relações com dois indicadores mac
 🎥 **Vídeo de apresentação:**
 [Inserir link do YouTube]
 
+🎤 **Slides da apresentação:**
+[Slides 17 a 25](https://www.canva.com/design/DAHMqhaGe7A/qhI840L9rXwyeMdbZQ3LDA/edit)
+
 ---
 
 ## Tecnologias Utilizadas
@@ -85,11 +91,13 @@ Além da inadimplência, foram analisadas as relações com dois indicadores mac
 .
 ├── Projeto_1_Democracia/
 │   ├── data/
+│   ├── imgs/
 │   ├── notebooks/
 │   └── README.md
 │
 ├── Projeto_2_Inadimplencia/
 │   ├── data/
+│   ├── imgs/
 │   ├── notebooks/
 │   └── README.md
 │
