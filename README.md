@@ -66,7 +66,7 @@ Além da inadimplência, foram analisadas as relações com dois indicadores mac
 [Projeto 2](./projeto-eda-2/README.md)
 
 🎥 **Vídeo de apresentação:**
-[Inserir link do YouTube]
+[YouTube](https://youtu.be/QWh0h-HQIV0)
 
 🎤 **Slides da apresentação:**
 [Slides 17 a 25](https://www.canva.com/design/DAHMqhaGe7A/qhI840L9rXwyeMdbZQ3LDA/edit)
