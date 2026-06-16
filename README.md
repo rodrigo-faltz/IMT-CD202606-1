@@ -30,7 +30,7 @@ Este projeto utiliza dados da pesquisa **CESOP/IPEC 04832 (2023)** para investig
 [Projeto 1](./projeto-eda-1/README.md)
 
 🎥 **Vídeo de apresentação:**
-[Inserir link do YouTube]
+[YouTube](https://youtu.be/PBQeyS7G9X8)
 
 🎤 **Slides da apresentação:**
 [Slides 1 a 15](https://www.canva.com/design/DAHMqhaGe7A/qhI840L9rXwyeMdbZQ3LDA/edit)
